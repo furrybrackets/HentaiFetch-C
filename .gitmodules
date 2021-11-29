@@ -1,0 +1,3 @@
+[submodule "Dependencies/SugarHTTPS"]
+	path = Dependencies/SugarHTTPS
+	url = https://github.com/Rule47/SugarHTTPS
