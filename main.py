@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # This software was written by
 # SteveGremory and he wants you to
 # switch to an UNIX like operating system.
