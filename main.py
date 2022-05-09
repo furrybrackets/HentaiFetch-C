@@ -4,7 +4,7 @@
 # switch to an UNIX like operating system.
 import utils
 import argparse
-from term_img.image import TermImage
+from term_image.image import TermImage
 
 parser = argparse.ArgumentParser(description='Get hentai right in your terminal.')
 parser.add_argument('--tags', help='The tags you want to have for image search.', required=True)
@@ -18,4 +18,4 @@ url = utils.rule34(args["tags"].replace(",", "+"), 100)
 
 # Print to terminal
 image = TermImage.from_url(url)
-image.draw_image("left")
+image.draw("left")
