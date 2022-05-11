@@ -1,6 +1,6 @@
 # what the actual fuck?
 
-This is an amazing script i wrote to get hentai from rule34 and show it as ascii on the terminal.
+This is an amazing script I ported to C which gets hentai from rule34 and displays it as ASCII on the terminal.
 
 # I'm in!
 
